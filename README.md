@@ -1,1 +1,7 @@
-C++的练习项目
+cpp libraries for learning 
+
+#### Libraries
+- **Thread Pool**
+
+#### Build
+sh build.sh
